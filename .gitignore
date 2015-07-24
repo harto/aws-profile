@@ -1,0 +1,4 @@
+/profiles.d/*
+!/profiles.d/.gitkeep
+/credentials
+/config
